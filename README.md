@@ -2,8 +2,8 @@
 
 
 # Sounders
-## Quick start
 
+## Quick start
 1. **Left-click** the **volume icon** in the sidebar to play the next track (default).
 2. **Right-click** the sidebar icon to open the player and settings.
 3. Add audio files individually or import an entire folder as a playlist.

@@ -30,8 +30,7 @@
 .sounders-player {
 	display: grid;
 	grid-template-columns: var(--sounders-edge, 36px) minmax(0, 1fr) var(--sounders-edge, 36px);
-	column-gap: 8px;
-	row-gap: 10px;
+	gap: 10px 8px;
 	padding: 12px;
 	margin: 10px 0;
 	border: 1px solid var(--background-modifier-border);
@@ -149,7 +148,7 @@
 .sounders-controls-grid {
 	display: grid;
 	grid-template-columns: var(--sounders-edge, 36px) minmax(0, 1fr) var(--sounders-edge, 36px);
-	column-gap: var(--sounders-vol-gap);
+	gap: 0 var(--sounders-vol-gap);
 	align-items: center;
 	min-height: 44px;
 }
