@@ -1,7 +1,7 @@
 ![Guide](_guide.gif)
 
 
-# Sunders Quick start
+# Sounders Quick start
 
 1. **Left-click** the **volume icon** in the sidebar to play the next track (default).
 2. **Right-click** the sidebar icon to open the player and settings.
